@@ -847,8 +847,7 @@ body {
   }
   .menu-open .icon-menu {
     background-image: url(../img/icons/button_close.svg);
-    background-repeat: no-repeat;
-    vertical-align: right
+    background-repeat: no-repeat
   }
   .menu-open .icon-menu:active {
     background: url(../img/icons/button_close_dark.svg) 0 0/100% no-repeat
