@@ -872,7 +872,7 @@ body {
     padding: 0
   }
   .hero__content {
-    padding: 0 .9375rem
+    padding: .9375rem .9375rem
   }
 }
 @media (max-width:23.4375em) {
